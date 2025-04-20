@@ -99,3 +99,11 @@ Anybody who needs to organize their work around "cases"
 |                    | SQLAlchemy  | ORM                        |
 | **Database**       | SQLite      | Data storage               |
 | **Authentication** | NextAuth.js | Authentication for Next.js |
+
+## Basic Repo Structure
+
+open-caseui/
+├── frontend/
+├── backend/
+├── docs/
+└── README.md
