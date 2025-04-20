@@ -106,4 +106,5 @@ open-caseui/
 ├── frontend/
 ├── backend/
 ├── docs/
+├── .git/
 └── README.md
