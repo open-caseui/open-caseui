@@ -1,6 +1,10 @@
-# open-caseui
+# Open-CaseUI
 
-User-friendly case management.
+<p align="center">
+  <img src="frontend/static/brand/open-caseui-logo.png" alt="Open-CaseUI logo" width="180">
+</p>
+
+User-friendly case management for the AI era. Cases are anything you want to track. Define your case types. Build workflows for your cases. Run the world.
 
 ## Project structure
 
